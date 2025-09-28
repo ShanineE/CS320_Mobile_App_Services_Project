@@ -35,5 +35,5 @@ This CS320 project demonstrates the development of three core services for a dem
 
 ## Resources / Examples
 - Java source code (`src/`)  
-- Unit tests (`tests/`)  
+- Unit tests (`tests:/')  
 - Supporting documentation (README and zip files)
