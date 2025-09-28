@@ -34,5 +34,5 @@ This CS320 project demonstrates the development of three core services for a dem
 - Enhance input validation and error handling for additional scenarios  
 
 ## Resources / Examples
-- [Java source code](src/)  
-- [Unit tests](tests/)  
+- [Java source code](src:)  
+- [Unit tests](tests:)  
